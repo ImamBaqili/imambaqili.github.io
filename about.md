@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ''
-permalink: /about/
+permalink: /a-propos/
 published: true
 ---
 # بسم الله الرحمان الرحيم
