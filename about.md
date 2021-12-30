@@ -1,15 +1,11 @@
 ---
 layout: page
-title: About
+title: A Propos
 permalink: /about/
+published: true
 ---
+# بسم الله الرحمان الرحيم
 
-Some information about you!
+## Introduction 
 
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
-
-### Contact me
-
-[email@domain.com](mailto:email@domain.com)
+Au nom d'Allah, et la Prière et le Salut sur le dernier des Messager, notre Maître Muhammed ﷺ.
