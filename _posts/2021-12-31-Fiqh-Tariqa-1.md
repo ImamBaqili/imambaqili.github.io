@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 ### Quel est le jugement pour celui qui perd ses ablutions durant ou à la fin du dhikr (1) ?
 
